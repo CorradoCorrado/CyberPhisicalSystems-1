@@ -10,9 +10,6 @@ This repository is home to my Cyber Physical Systems activities.
 - Prof. Alberto's Painless Mesh Activity
 
 
-
-
-
 ## Author 
 [@CorradoCorrado](https://github.com/CorradoCorrado)
 
